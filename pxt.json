@@ -1,0 +1,31 @@
+{
+    "name": "CalliopeEmpfMotionKit",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "v3": "*",
+        "MotionKit V2": "github:tinysuperlab/motionkitv2#71deb206e573bef6d45615cb04ef7587c6e68820",
+        "SI1151": "github:calliope-edu/pxt-sunlightsensor-si1151#de1634aa3afe9667a066bb68d02efa3b091beaad",
+        "funk": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v6.0.41",
+        "tag": "v6.0.41",
+        "commits": "https://github.com/microsoft/pxt-calliope/commits/2f883ce73a808c435afc7787e95215245cb41128",
+        "target": "6.0.41",
+        "pxt": "9.0.18",
+        "targetId": "calliopemini"
+    },
+    "supportedTargets": [
+        "calliopemini"
+    ],
+    "preferredEditor": "blocksprj"
+}
